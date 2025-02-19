@@ -74,7 +74,7 @@ dependencies {
     implementation(libs.androidx.navigation.ui.ktx)
 
     // YouTube Player
-    implementation("com.pierfrancescosoffritti.androidyoutubeplayer:core:11.1.0")
+    implementation(libs.core)
 
     // Glide
     implementation(libs.glide)
